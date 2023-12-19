@@ -1,0 +1,43 @@
+body{
+	font-size:20pt;
+	color:#A342A3;
+	text-align:center;
+	border: solid;
+	background-color:#e6e6fa;
+}
+#name{color:#FF69B4;}
+
+.class0{
+	background-color:hotpink;
+	
+	
+}
+h1:hover{
+	
+	background-color:blue;
+}
+::selection {
+	color:mediumblue;
+	background-color:mediumturquoise;
+	
+	
+}
+
+h2{
+background-color:white;
+color:gray;
+font-style:italic;
+
+}
+h1{
+font-size:30pt;
+ color:gray;
+ font-style:italic;
+ background-color:white;}
+ 
+#info{ border-style: dotted;}
+#web{border-style: groove;}
+
+footer{font-weight:bold;}
+
+span{text-decoration:underline;}
